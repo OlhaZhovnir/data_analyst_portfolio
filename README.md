@@ -32,3 +32,11 @@ I share videos on my YouTube channel "[Data Investigations][youtube]" highlighti
 #
 
 [youtube]: https://www.youtube.com/@DataInvestigations
+
+### 📺 Latest YouTube Video
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![USA SHARK ATTACKS |2000-2023](https://ytcards.demolab.com/?id=-Je5vOboBn0&title=USA+SHARK+ATTACKS+|2000-2023&lang=en&timestamp=1693248000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141 "USA SHARK ATTACKS |2000-2023")](https://www.youtube.com/watch?v=-Je5vOboBn0&t=2s)
+
+<!-- END YOUTUBE-CARDS -->
