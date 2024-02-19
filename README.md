@@ -1,15 +1,15 @@
 # 👩  Olha Zhovnir
 
-**`Data Analyst`**
+## **`Data Analyst`**
 
-I'm an Experienced data analyst with over 9 years dedicated to analyzing legal and crime data for state institutions. 
+I'm an experienced data analyst with over 9 years dedicated to analyzing legal and crime data for state institutions. 
 Currently pursuing a degree in data science to further enhance expertise and skills in the field.
 I share videos on my YouTube channel "[Data Investigations][youtube]" highlighting my proficiency in Tableau.
 
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg"/>
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354127/numpy.svg" />
@@ -33,10 +33,21 @@ I share videos on my YouTube channel "[Data Investigations][youtube]" highlighti
 
 [youtube]: https://www.youtube.com/@DataInvestigations
 
-### 📺 Latest YouTube Video
+## 📺 Latest YouTube Video
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [![USA SHARK ATTACKS |2000-2023](https://ytcards.demolab.com/?id=-Je5vOboBn0&title=USA+SHARK+ATTACKS+|2000-2023&lang=en&timestamp=1693248000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141 "USA SHARK ATTACKS |2000-2023")](https://www.youtube.com/watch?v=-Je5vOboBn0&t=2s)
 
 <!-- END YOUTUBE-CARDS -->
+
+
+## 💼 Projects
+
+### SQL
+* 1
+### PYTHON
+* 1
+
+
+
