@@ -45,7 +45,9 @@ I share videos on my YouTube channel "[Data Investigations][youtube]" highlighti
 ## 💼 Projects
 
 ### SQL
-* 1
+* **`1`** The [SQL script](https://github.com/OlhaZhovnir/data_analyst_portfolio/blob/main/crime_analysis.sql) analyzes crime data in San Francisco for 2023, providing insights into top crime areas, categories, and time patterns, enabling informed decision-making for law enforcement. Additionally, the script identifies crime spikes by comparing daily occurrences, offering a deeper understanding of temporal trends and potential underlying causes.
+
+     
 ### PYTHON
 * 1
 
