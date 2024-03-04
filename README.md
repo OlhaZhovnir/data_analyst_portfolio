@@ -49,7 +49,7 @@ I share videos on my YouTube channel "[Data Investigations][youtube]" highlighti
 
      
 ### PYTHON
-* **`1`** This project implements a Product Management System in Python, leveraging the power of SQLAlchemy for database interaction. The system enables users to add, delete, search, and analyze products stored in a relational database.
+* **`1`** This [project](https://github.com/OlhaZhovnir/pet_supplies/blob/master/app.py) implements a Product Management System in Python, leveraging the power of SQLAlchemy for database interaction. The system enables users to add, delete, search, and analyze products stored in a relational database.
 
 
 
