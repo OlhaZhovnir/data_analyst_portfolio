@@ -50,7 +50,7 @@ I share videos on my YouTube channel "[Data Investigations][youtube]" highlighti
      
 ### PYTHON
 * **`1`** This [project](https://github.com/OlhaZhovnir/data_analyst_portfolio/tree/main/crime_rate_choropleth_map) involves analyzing crime data in the USA from 1979 to 2020 and visualizing the data through an animated choropleth map to illustrate the crime rate trends over time across different states.
-* **`2`** This [project](https://github.com/OlhaZhovnir/pet_supplies/blob/master/app.py) implements a Product Management System in Python, leveraging the power of SQLAlchemy for database interaction. The system enables users to add, delete, search, and analyze products stored in a relational database.
+* **`2`** This [project](https://github.com/OlhaZhovnir/data_analyst_portfolio/tree/main/pet_supplies) implements a Product Management System in Python, leveraging the power of SQLAlchemy for database interaction. The system enables users to add, delete, search, and analyze products stored in a relational database.
 
 
 
