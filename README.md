@@ -3,7 +3,7 @@
 ## **`Data Analyst`**
 
 I'm an experienced data analyst with over 9 years dedicated to analyzing legal and crime data for state institutions. 
-Currently pursuing a degree in data science to further enhance expertise and skills in the field.
+Currently planning to pursue a degree in data science to further enhance my expertise and skills in the field.
 I share videos on my YouTube channel "[Data Investigations][youtube]" highlighting my proficiency in Tableau.
 
 
